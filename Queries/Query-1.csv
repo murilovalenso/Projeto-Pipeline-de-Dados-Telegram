@@ -1,0 +1,5 @@
+"message_id","user_id","user_is_bot","user_first_name","chat_id","chat_type","text","date","context_date"
+"11","7157567197","false","Murilo","-1002179211689","supergroup","Oi Pessoal !","1717361067","2024-06-02"
+"12","7157567197","false","Murilo","-1002179211689","supergroup","Agora vamos testar a Integração","1717361086","2024-06-02"
+"13","7157567197","false","Murilo","-1002179211689","supergroup","entre a API de Bots do Telegram","1717361112","2024-06-02"
+"14","7157567197","false","Murilo","-1002179211689","supergroup","e a etapa de ingestão analítica pelo AWS API gateway","1717361173","2024-06-02"
